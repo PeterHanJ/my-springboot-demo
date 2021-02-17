@@ -1,0 +1,9 @@
+#person:
+#  last-name: Han
+#  age: 18
+#  birthday: 2002/05/25
+#  interests: [movie,football,travel]
+#  maps: {key1: value1,key2: value2}
+#  dog:
+#      name: puppy
+#      age: 2
